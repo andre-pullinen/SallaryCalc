@@ -2,7 +2,7 @@
 #include "Staff.h"
 
 int main() {
-    Staff staff = Staff("HARD ROCK");
+    Staff staff = Staff("employes.dat");
 
     bool isKeepRunning = true;
     while(isKeepRunning){
